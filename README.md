@@ -1,1 +1,1 @@
-Test
+This repository was automatically created by LM Studio Bionic.
